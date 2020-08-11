@@ -1,1 +1,1 @@
-# my_projects
+# Simple projects and data analysis made in Python
