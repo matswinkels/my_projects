@@ -1,1 +1,1 @@
-# Simple projects and data analysis made in Python
+Simple projects and data analysis made in Python
